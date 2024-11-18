@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AuthSystemUsingMVC_And_IdentityUI.props" />
+</Project>
